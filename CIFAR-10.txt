@@ -1,0 +1,28 @@
+Nama Dataset:
+CIFAR-10
+
+Sumber Dataset:
+https://www.cs.toronto.edu/~kriz/cifar.html
+
+Deskripsi Dataset:
+CIFAR-10 merupakan dataset klasifikasi citra yang terdiri dari 60.000 citra berwarna
+(RGB) dengan ukuran 32×32 piksel. Dataset ini terbagi ke dalam 10 kelas, di mana setiap
+kelas berisi 6.000 citra. Dataset CIFAR-10 terdiri dari 50.000 data latih (training)
+dan 10.000 data uji (testing).
+
+Daftar Kelas:
+airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck
+
+Format Data:
+Data berupa citra RGB yang dimuat dalam bentuk array NumPy menggunakan library
+TensorFlow/Keras.
+
+Penggunaan Dataset pada Proyek:
+Pada proyek ini, dataset CIFAR-10 dimuat secara otomatis menggunakan fungsi
+tensorflow.keras.datasets.cifar10. Dataset tidak disimpan secara langsung di dalam
+repositori GitHub karena ukurannya yang cukup besar. Pendekatan ini mengikuti praktik
+standar dalam pengembangan proyek deep learning.
+
+Tujuan Penggunaan Dataset:
+Dataset CIFAR-10 digunakan untuk melatih dan mengevaluasi model Convolutional Neural
+Network (CNN) dalam melakukan klasifikasi citra multi-kelas.
