@@ -34,7 +34,7 @@ Berdasarkan hasil evaluasi, model CNN mampu mengklasifikasikan citra CIFAR-10 de
 Model CNN yang dibangun berhasil melakukan klasifikasi citra CIFAR-10 dengan akurasi sekitar 70%. Proyek ini telah memenuhi seluruh kriteria UAS, mulai dari pemilihan dataset, pra-pemrosesan, pelatihan, hingga evaluasi model.
 </p>
 <p align="justify">
-📌 Referensi
-dataset : https://www.cs.toronto.edu/~kriz/cifar.html, notebook colwb : https://colab.research.google.com/drive/1sIXnyv-DG2FwTYYE9aGnXQm9ZyL3MS-E#scrollTo=TedXuxQEQ6vY
+📌 dataset : https://www.cs.toronto.edu/~kriz/cifar.html, 
+📌 notebook colwb : https://colab.research.google.com/drive/1sIXnyv-DG2FwTYYE9aGnXQm9ZyL3MS-E#scrollTo=TedXuxQEQ6vY
 </p>
 
