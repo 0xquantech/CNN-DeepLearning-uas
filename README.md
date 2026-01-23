@@ -1,8 +1,6 @@
 # Proyek UAS Deep Learning
 
-Nama : Arman Surahman,
-NIM : 2230511032,
-Mata Kuliah : Deep Learning
+📌 Nama : Arman Surahman, NIM : 2230511032, Mata Kuliah : Deep Learning
 <p align="justify">
 📌 Latar Belakang dan Tujuan
 Perkembangan deep learning telah memberikan dampak besar dalam bidang pengolahan citra digital. Salah satu metode yang paling efektif untuk klasifikasi citra adalah Convolutional Neural Network (CNN). Proyek ini bertujuan untuk membangun dan mengevaluasi model CNN dalam melakukan klasifikasi citra menggunakan dataset CIFAR-10, serta memahami tahapan pra-pemrosesan, pelatihan, dan evaluasi model sesuai ketentuan UAS.
@@ -37,7 +35,6 @@ Model CNN yang dibangun berhasil melakukan klasifikasi citra CIFAR-10 dengan aku
 </p>
 <p align="justify">
 📌 Referensi
-dataset : https://www.cs.toronto.edu/~kriz/cifar.html
-notebook colwb : https://colab.research.google.com/drive/1sIXnyv-DG2FwTYYE9aGnXQm9ZyL3MS-E#scrollTo=TedXuxQEQ6vY
+dataset : https://www.cs.toronto.edu/~kriz/cifar.html, notebook colwb : https://colab.research.google.com/drive/1sIXnyv-DG2FwTYYE9aGnXQm9ZyL3MS-E#scrollTo=TedXuxQEQ6vY
 </p>
 
