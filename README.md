@@ -3,10 +3,10 @@
 Nama : Arman Surahman
 NIM : 2230511032
 Mata Kuliah : Deep Learning
-
+<p align="justify">
 📌 Latar Belakang dan Tujuan
 Perkembangan deep learning telah memberikan dampak besar dalam bidang pengolahan citra digital. Salah satu metode yang paling efektif untuk klasifikasi citra adalah Convolutional Neural Network (CNN). Proyek ini bertujuan untuk membangun dan mengevaluasi model CNN dalam melakukan klasifikasi citra menggunakan dataset CIFAR-10, serta memahami tahapan pra-pemrosesan, pelatihan, dan evaluasi model sesuai ketentuan UAS.
-
+</p>
 📌 Deskripsi Dataset
 Dataset yang digunakan adalah CIFAR-10, yang terdiri dari 60.000 citra berwarna berukuran 32×32 piksel dengan 10 kelas objek. Dataset ini dibagi menjadi 50.000 data training dan 10.000 data testing. Dataset diperoleh langsung melalui library Keras sehingga tidak memerlukan proses unduhan manual.
 
